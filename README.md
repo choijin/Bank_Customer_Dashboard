@@ -23,9 +23,8 @@ Let’s say the bank comes up with an insurance offering or some kind of new pro
 * Data for Wales shows an above average representation of mid-sized balances, mostly in their 30s, 56% female, and 58% white collar workers. 
 * In Northern Ireland, you can see a completely different picture. You can see that they’re predominantly female in their late 20s to early 30s. 
 
-Therefore, the method of promotion should be different based on different region. 
-
 ## Promotion recommendation
+The method of promotion should be different based on different region. 
 
 * For Northern Ireland, the promotion could focus on taking care of life changing events such as purchasing homes or getting married, as these events are important for people in their twenties and thirties. 
 * In contrast, most customers in Scotland have already experienced these events and are established. The promotion might sound something like, this insurance is important because it will help you protect the people you love and it will help you look after your families, etc. 
