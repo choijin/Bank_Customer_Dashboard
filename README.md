@@ -12,6 +12,8 @@ Click [HERE](https://public.tableau.com/views/CustomerSegmentationDashboard_1674
 * We also have a distribution of the same customers by different balance bands, also by ages. 
 * These age and balance bands can be controlled and adjusted, and the dashboard reflects the changes immediately. 
 
+<iframe seamless frameborder="0" src="[https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no](https://public.tableau.com/app/profile/jin.choi8484/viz/CustomerSegmentationDashboard_16744484264940/Dashboard1)" width = '650' height = '450'></iframe> 
+
 ## Drawing Insight from Dashboard
 
 Let’s say the bank comes up with an insurance offering or some kind of new product that involves insurance. If the bank wants to market the insurance offering to the existing customers, then you would approach it differently based on the regions. 
