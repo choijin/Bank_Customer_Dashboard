@@ -14,7 +14,7 @@ Click [HERE](https://public.tableau.com/views/CustomerSegmentationDashboard_1674
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/jin.choi8484/viz/CustomerSegmentationDashboard_16744484264940/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
 
-## Drawing Insight from Dashboard
+## Drawing insights from the dashboard
 
 Let’s say the bank comes up with an insurance offering or some kind of new product that involves insurance. If the bank wants to market the insurance offering to the existing customers, then you would approach it differently based on the regions. 
 
