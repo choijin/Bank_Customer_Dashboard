@@ -2,7 +2,7 @@
 
 Click [HERE](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-UK-Bank-Customers.csv) to get the data source
 
-Click [HERE](https://public.tableau.com/views/CustomerSegmentationDashboard_16744484264940/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) to see the dashboard in Tableau Public
+Click [HERE](https://public.tableau.com/views/CustomerSegmentationDashboard_16744484264940/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) to see the dashboard in Tableau Public (RECOMMENDED)
 
 ## Project Overview
 * Segment our customer base and understand how to service them better
@@ -24,6 +24,8 @@ Let’s say the bank comes up with an insurance offering or some kind of new pro
 * In Northern Ireland, you can see a completely different picture. You can see that they’re predominantly female in their late 20s to early 30s. 
 
 Therefore, the method of promotion should be different based on different region. 
+
+## Promotion recommendation
 
 * For Northern Ireland, the promotion could focus on taking care of life changing events such as purchasing homes or getting married, as these events are important for people in their twenties and thirties. 
 * In contrast, most customers in Scotland have already experienced these events and are established. The promotion might sound something like, this insurance is important because it will help you protect the people you love and it will help you look after your families, etc. 
