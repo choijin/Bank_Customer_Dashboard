@@ -12,7 +12,7 @@ Click [HERE](https://public.tableau.com/views/CustomerSegmentationDashboard_1674
 * We also have a distribution of the same customers by different balance bands, also by ages. 
 * These age and balance bands can be controlled and adjusted, and the dashboard reflects the changes immediately. 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/jin.choi8484/viz/CustomerSegmentationDashboard_16744484264940/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/CustomerSegmentationDashboard_16744484264940/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
 
 ## Drawing insights from the dashboard
 
